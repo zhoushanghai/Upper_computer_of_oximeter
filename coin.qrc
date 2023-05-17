@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>upp.png</file>
+    <file>down.png</file>
+    <file>rate.png</file>
+    <file>spo.png</file>
+    <file>up.png</file>
+  </qresource>
+</RCC>
